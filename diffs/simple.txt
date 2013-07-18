@@ -1,7 +1,7 @@
 The Simple list of the Sciences
 ===============================
 
- * Neuroscience
  * Biology
  * Chemistry
+ * Neuroscience
  * Physics
